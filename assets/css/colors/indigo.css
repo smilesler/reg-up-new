@@ -1,0 +1,174 @@
+/*You can add your won color also */
+a {
+  color: #442765;
+}
+
+a:hover {
+  color: #925DCF;
+}
+
+.section-titile-bg {
+  color: #442765;
+}
+.section-title::before{
+  background-color: #442765;
+}
+.subtitle{
+  color: #442765;
+}
+.btn-common {
+  background: #442765;
+}
+
+.btn-common:hover, .btn-common:focus {
+  background: #925DCF !important;
+}
+
+.btn-round {
+  background: #442765 !important;
+}
+
+.btn-round:hover {
+  background: #925DCF !important;
+}
+
+/* ScrollToTop */
+a.back-to-top i {
+  background-color: #442765;
+}
+
+
+.slicknav_btn{
+  border-color: #442765;
+}
+.slicknav_menu .slicknav_icon-bar{
+  background: #442765;
+}
+.slicknav_menu .slicknav_icon-bar:hover{
+  background: #442765;
+}
+.navbar li.active a.nav-link{
+  color: #442765!important;
+}
+.navbar-expand-lg .navbar-nav .nav-link:hover{
+  color: #442765!important;
+}
+.dropdown .dropdown-item:focus, .dropdown .dropdown-item:hover{
+  color: #442765;
+}
+.dropdown .dropdown-menu .dropdown-item.active, .dropdown .dropdown-menu .dropdown-item:active{
+  color: #442765;
+  background-color: #fafafa;
+}
+.work-counter-widget i {
+  color: #442765;
+}
+.portfolio-nav ul.nav li a:hover,
+.portfolio-nav ul.nav li a.active{
+  background: #442765;
+}
+.about-single i {
+  color: #442765;
+}
+
+.about-single:hover i {
+  background: #442765;
+}
+.Material-tab ul.nav.nav-tabs li .active{
+  background: #442765 !important;
+}
+.single-blog-post .post-meta a:hover {
+  color: #442765;
+}
+
+.contact-widget-section .single-contact-widget i {
+  color: #442765;
+}
+
+.single-service-widget i {
+  color: #442765;
+}
+#testimonial-carousel .owl-pagination .owl-page.active span {
+  background: #442765;
+}
+
+.form-submit button.btn-common.disabled {
+  background: #442765 !important;
+  opacity: 0.7;
+  cursor: not-allowed;
+}
+
+.owl-carousel .owl-controls .owl-page.active span {
+  border: none;
+  background: #fff !important;
+  opacity: 1;
+}
+
+.Material-tab-default ul.nav.nav-tabs li.active a {
+  color: #442765;
+}
+
+.Material-default-accordion .panel-default .panel-heading a {
+  background-color: #442765;
+}
+
+.icon-round, .icon-box {
+  background: #442765;
+}
+
+.icon-common {
+  color: #442765;
+}
+
+.price span {
+  color: #442765;
+}
+
+.pricing-button a.btn-pricing {
+  background-color: #442765;
+}
+
+.Material-error-section h1 {
+  color: #442765;
+}
+
+.comment-box .form-control, .comment-box textarea {
+  font-weight: 500;
+  color: #442765;
+}
+
+.find-widget {
+  padding: 10px 0;
+}
+
+.find-widget i {
+  background: #442765;
+}
+.footer-widget-container{
+  border-top: 4px solid #442765;
+}
+ul.footer-contact li span{
+  background: #442765;
+}
+.footer-contact ul li i{
+  background: #442765;
+  border-color: #442765;
+}
+.page-footer .link-widget ul li a:hover{
+  color: #442765;
+}
+.page-footer .recent-widget p a:hover{
+  color: #442765;
+}
+
+.form-group.is-focused .form-control {
+    outline: 0;
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#442765), to(#442765)),
+    -webkit-gradient(linear, left top, left bottom, from(#D2D2D2), to(#D2D2D2));
+    background-image: -webkit-linear-gradient(#442765, #442765), -webkit-linear-gradient(#D2D2D2, #D2D2D2);
+    background-image: -o-linear-gradient(#442765, #442765), -o-linear-gradient(#D2D2D2, #D2D2D2);
+    background-image: linear-gradient(#442765, #442765), linear-gradient(#D2D2D2, #D2D2D2);
+}
+.page-footer .footer-title::before{
+  background: #442765;
+}

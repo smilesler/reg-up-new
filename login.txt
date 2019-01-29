@@ -1,0 +1,28 @@
+ <div class="wrapper">
+              <form class="login">
+                  <div class="col-md-6 wow animated fadeInRight" data-wow-delay=".2s">
+                      <form class="shake" role="form" method="post" id="contactForm" name="contact-form" data-toggle="validator">
+                          
+                          <!-- Username -->
+                          <div class="form-group label-floating">
+                            <label class="control-label">Username</label>
+                            <input class="form-control" id="msg_subject" type="text" name="subject" required data-error="Please enter your message subject">
+                            <div class="help-block with-errors"></div>
+                          </div>
+                          <!-- Password -->
+                          <div class="form-group label-floating">
+                              <label class="control-label">Password</label>
+                              <textarea class="form-control" rows="3" id="message" name="message" required data-error="Write your message"></textarea>
+                              <div class="help-block with-errors"></div>
+                          </div>
+                          <!-- User Login -->
+                          <div class="form-submit mt-2">
+                              <button class="btn btn-common" type="submit" id="form-submit"><i class="material-icons mdi mdi-login"></i> User Login</button>
+                              <div id="msgSubmit" class="h3 text-center hidden"></div>
+                              <div class="clearfix"></div>
+                          </div>
+                      </form>
+                  </div>
+              </form>
+              </p>
+            </div>
