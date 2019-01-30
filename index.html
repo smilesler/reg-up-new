@@ -27,7 +27,7 @@
   <!-- Style CSS -->
   <link rel="stylesheet" href="assets/css/style.css">
 
-
+  <link rel="stylesheet" href="assets/css/mbs.css">
 
   <!-- Color CSS Styles  -->
   <link rel="stylesheet" type="text/css" href="assets/css/colors/indigo.css" media="screen" />
@@ -51,7 +51,6 @@
     <nav class="navbar navbar-expand-lg fixed-top scrolling-navbar nav-bg">
 
 
-
       <div class="container">
 
         <a class="navbar-brand" href="index.html"><img src="assets/images/logomorpor/1.png" alt=""></a>
@@ -64,8 +63,6 @@
             <span class="mdi mdi-menu"></span>
             <span class="mdi mdi-menu"></span>
           </button>
-
-
 
         </div>
 
@@ -197,11 +194,20 @@
     </nav>
   </header>
   <!-- Header End -->
+
+  <style>
+ .input:focus {
+    outline: none !important;
+    border:1px solid red;
+    box-shadow: 0 0 10px transparent;
+}
+  </style>
+
   <!-- Call to action Section -->
   <section class="call-to-action-section">
     <div class="container">
       <div class="row justify-content-between">
-        <div class="col-md-12 col-lg-7 col-xs-12 text-left wow animated fadeInLeft" data-wow-delay=".2s">
+        <div class="col-md-12 col-lg-7 col-xs-12 text-left wow animated fadeInLeft w3-hide-small" data-wow-delay=".2s">
           <h1> </h1><br>
 
           <img src="assets/images/LOGO UP.png" alt="">
@@ -230,7 +236,7 @@
                     </div>
                     
                     <div class="col-md-4 text-center">
-                        <a href="javascript:void(0)" class="animated4 btn btn-common" data-ripple-color="#000"><i class="material-icons mdi mdi-login-variant"></i>User Login<div class="ripple-container"></div></a>
+                        <a href="javascript:void(0)" class="animated4 btn btn-common round" data-ripple-color="#000"><i class="material-icons mdi mdi-login-variant"></i>User Login<div class="ripple-container"></div></a>
                     </div>
                   
                     <div class="foot-lnk">
