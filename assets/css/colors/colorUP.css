@@ -7,6 +7,15 @@ a:hover {
   color: #925DCF;
 }
 
+.footer-text{
+  color: #ffff;
+}
+
+.footer-text:hover {
+  color: #925DCF;
+}
+
+
 .section-titile-bg {
   color: #442765;
 }
